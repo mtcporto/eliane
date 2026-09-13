@@ -1,13 +1,13 @@
 const images = {
   amor: 'assets/amorem12atos.webp',
-  dominique: 'assets/dominique.webp',
+  dominique: 'assets/dominique-nova.webp',
   espelho: 'assets/espelhodagua.webp',
   autora: 'assets/eliane-mesquita-restaurada.webp'
 };
 
 const books = [
   { id: 'amor', title: 'Amor em Doze Atos', oldImage: 'assets/amor-em-12-atos.webp', type: 'Contos · jovem e adulto', summary: 'Doze histórias sobre o encontro do verdadeiro amor, entre o realismo e o surrealismo.', amazon: 'http://www.amazon.com.br/Amor-Doze-Atos-contos-conto-ebook/dp/B00LTG4G5E' },
-  { id: 'dominique', title: 'Dominique', oldImage: 'assets/dominique.webp', type: 'Romance · pré-adolescentes', summary: 'A trajetória de um garoto sertanejo e sonhador que decide mudar o próprio futuro.', amazon: 'http://www.amazon.com.br/DOMINIQUE-ELIANE-MESQUITA-SILVA-ebook/dp/B00MI5VK4A' },
+  { id: 'dominique', title: 'Dominique', oldImage: 'assets/dominique-antiga.webp', type: 'Romance · pré-adolescentes', summary: 'A trajetória de um garoto sertanejo e sonhador que decide mudar o próprio futuro.', amazon: 'http://www.amazon.com.br/DOMINIQUE-ELIANE-MESQUITA-SILVA-ebook/dp/B00MI5VK4A' },
   { id: 'espelho', title: "Espelho D'Água", oldImage: 'assets/espelho-dagua.webp', type: 'Infantojuvenil', summary: 'Uma história de crescimento, amizade e descobertas nas asas de uma borboleta.', amazon: 'http://www.amazon.com.br/ESPELHO-D%C3%81GUA-ELIANE-MESQUITA-SILVA-ebook/dp/B00MYHM1TK' }
 ];
 
